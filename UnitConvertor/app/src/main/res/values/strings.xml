@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string name="button_click_message">Hello!</string>
+</resources>

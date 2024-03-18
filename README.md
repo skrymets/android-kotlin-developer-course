@@ -8,8 +8,8 @@ This repository contains coding exercises from Android Kotlin Developer Course [
 - Day 2 - Rock Paper Scissors and Kotlin Basics
 - Day 3 - Functions, Objects and Coffee Machines
 - Day 4 - Lists and Objects
-- Day 5 - Our First App - Unit Converter
-- Day 6 - Unit Converter Part 2 and Understanding State
+- [Day 5 - Our First App - Unit Converter](UnitConvertor/README.md)
+- [Day 6 - Unit Converter Part 2 and Understanding State](UnitConvertor/README.md)
 - Day 7 - Shopping List App - Learning Loads of UI Features
 - Day 8 - MVVM - Model View ViewModel - Architecture - Counter App Part 2
 - Day 9 - JSON, Retrofit, HTTP Requests and Restful APIs - Recipe App
